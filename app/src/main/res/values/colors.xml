@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lottoYellow">#EBA40E</color>
+    <color name="lottoBlue">#2877c3</color>
+    <color name="lottoRed">#e75646</color>
+    <color name="lottoGrey">#57585a</color>
+    <color name="lottoGreen">#579921</color>
+    <color name="colorDullGreen">#96b4a2</color>
+    <color name="colorDullDark">#626873</color>
+    <color name="colorDullSalmon">#e5c2a1</color>
+    <color name="colorDullPink">#ebab96</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="pensionOne">#7E7E7E</color>
+    <color name="pensionTwo">#ff4c4c </color>
+    <color name="pensionThree">#ff8e4f</color>
+    <color name="pensionFour">#fcd153</color>
+    <color name="pensionFive">#3cbcff</color>
+    <color name="pensionSix">#8d70da</color>
+    <color name="pensionSeven">#777777</color>
+</resources>
